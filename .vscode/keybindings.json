@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "home",
+        "command": "workbench.action.tasks.test"
+    },
+    {
+        "key": "end",
+        "command": "workbench.action.terminal.runSelectedText"
+    }
+]
